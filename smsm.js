@@ -129,22 +129,22 @@ smsm.on("ready", () => {
   });
 ///////////////////
 smsm2.on("ready", () => {
-    var join = smsm2.channels.get(""); /// id voice
+    var join = smsm2.channels.get("888203180519882772"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm3.on("ready", () => {
-    var join = smsm3.channels.get(""); /// id voice
+    var join = smsm3.channels.get("888203180519882772"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm4.on("ready", () => {
-    var join = smsm4.channels.get(""); /// id voice
+    var join = smsm4.channels.get("888203180519882772"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm5.on("ready", () => {
-    var join = smsm5.channels.get(""); /// id voice
+    var join = smsm5.channels.get("888203180519882772"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm6.on("ready", () => {
@@ -2935,11 +2935,11 @@ smsm120.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("");
-smsm2.login("");
-smsm3.login("");
-smsm4.login("");
-smsm5.login("");
+smsm.login("ODc3OTA2MTQxODE0ODgyMzk0.YR5cuQ.PfXKnfQKaDpvEI_hC7mbZwRXa2Y");
+smsm2.login("ODc3OTA1NjI5MDk4OTU4ODQ4.YR5ctQ.yqqKqj4SLPSkQqIjLqRH8J2w6-g");
+smsm3.login("ODc3OTA1MTM4MDU5MTkwMjcz.YR5csQ.vbWqKp6HT02XuZ5xwWBkDWXN_CI");
+smsm4.login("ODc3OTA0NjM4Mjk1MzA2MzAx.YR5crg.okocef4XbqYBY5uXBzMU4edw0CA");
+smsm5.login("ODc3OTAzODAxNzQ1NTQ3Mjc0.YR5cqg.3WAShUe2FTTUIjTABJuZIaQSGP4");
 smsm6.login("");
 smsm7.login("");
 smsm8.login("");
