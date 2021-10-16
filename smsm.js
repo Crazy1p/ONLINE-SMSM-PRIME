@@ -124,31 +124,31 @@ const smsm120 = new Discord.Client();
 
 ///////////////////
 smsm.on("ready", () => {
-    var join = smsm.channels.get("876852169666613258"); /// id voice
+    var join = smsm.channels.get("886890234221056021"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm2.on("ready", () => {
-    var join = smsm2.channels.get(""); /// id voice
+    var join = smsm2.channels.get("886890234221056021"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm3.on("ready", () => {
-    var join = smsm3.channels.get(""); /// id voice
+    var join = smsm3.channels.get("886890234221056021"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm4.on("ready", () => {
-    var join = smsm4.channels.get(""); /// id voice
+    var join = smsm4.channels.get("886890234221056021"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm5.on("ready", () => {
-    var join = smsm5.channels.get(""); /// id voice
+    var join = smsm5.channels.get("886890234221056021"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm6.on("ready", () => {
-    var join = smsm6.channels.get(""); /// id voice
+    var join = smsm6.channels.get("886890234221056021"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm7.on("ready", () => {
@@ -2935,12 +2935,12 @@ smsm120.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("");
-smsm2.login("");
-smsm3.login("");
-smsm4.login("");
-smsm5.login("");
-smsm6.login("");
+smsm.login("ODk4OTM3NzQwNzg2Mjg2NjMy.YWrfkA.ECRFvYWw3FYy_Jvp7__7A-4Fqz4");
+smsm2.login("ODk4OTM4ODUxNTM4NjU3MzAw.YWrgdQ.gAxuCrGDPc97473YrN-6PTd8Gow");
+smsm3.login("ODk4OTM5NDM0MzAzNjM5NjE0.YWrhAQ.qC6dKEk5fhUSx7cMPq_DDd1p7I0");
+smsm4.login("ODk4OTM5OTQ2MDI1NTE3MTA3.YWrhZg.Qoh9FY9dYWe0L0h9E1zSY97HnfQ");
+smsm5.login("ODk4OTQwNTE3ODg5NTAzMjgy.YWriDw.oGPQRI225YotHnXxE7JkAESnY4U");
+smsm6.login("ODk4OTQxMDY2MDIyMDk2OTA2.YWricQ.0zrCNp91jsh-zebw5Xgib3gtl7k");
 smsm7.login("");
 smsm8.login("");
 smsm9.login("");
